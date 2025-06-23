@@ -15,14 +15,14 @@ Virtual Lab Manager is built to streamline the management of coding courses, pra
 
 ## 💡 Technologies Used
 
-Frontend  
+**Frontend**  
 React.js  
 HTML5, CSS3, JavaScript  
 Tailwind CSS / Custom CSS  
 Axios, React Router DOM  
 react-tsparticles for background animation
 
-Backend  
+**Backend**  
 Node.js, Express.js  
 MySQL with Drizzle ORM  
 Judge0 API for remote code execution
