@@ -30,7 +30,7 @@ Judge0 API for remote code execution
 ## ✅ Current Status
 
 This repository currently includes:  
-🔐 Login Page UI only — with role-based login (Student, Faculty, HOD), dark mode, show/hide password, and animated background.  
+🔐 Login Page UI only with role-based login (Student, Faculty, HOD), dark mode, show/hide password, and animated background.  
 
 Backend and full dashboard integration are in progress.
 
