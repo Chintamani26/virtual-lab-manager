@@ -58,8 +58,7 @@ Make sure to set the backend API URL in your axios calls.
 
 ## 👥 Author
 
-@Chintamani26
-
+Chintamani Joshi (https://github.com/Chintamani26)
 ## 📄 License
 
 MIT License – Free for personal and academic use.
