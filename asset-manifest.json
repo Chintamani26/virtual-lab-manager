@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/virtual-lab/static/css/main.25a7ede1.css",
+    "main.js": "/virtual-lab/static/js/main.2483ea31.js",
+    "static/js/453.48a4487a.chunk.js": "/virtual-lab/static/js/453.48a4487a.chunk.js",
+    "index.html": "/virtual-lab/index.html",
+    "main.25a7ede1.css.map": "/virtual-lab/static/css/main.25a7ede1.css.map",
+    "main.2483ea31.js.map": "/virtual-lab/static/js/main.2483ea31.js.map",
+    "453.48a4487a.chunk.js.map": "/virtual-lab/static/js/453.48a4487a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a7ede1.css",
+    "static/js/main.2483ea31.js"
+  ]
+}
