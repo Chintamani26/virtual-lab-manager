@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -7,12 +8,17 @@
 
 # testing
 /coverage
+=======
+# dependencies
+/node_modules
+>>>>>>> 5c5b0a5af5630ab15e3c9fa8cb787c50513fe729
 
 # production
 /build
 
 # misc
 .DS_Store
+<<<<<<< HEAD
 .env.local
 .env.development.local
 .env.test.local
@@ -21,3 +27,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+=======
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+>>>>>>> 5c5b0a5af5630ab15e3c9fa8cb787c50513fe729
