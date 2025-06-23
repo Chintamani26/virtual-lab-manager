@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/virtual-lab-manager/static/css/main.25a7ede1.css",
-    "main.js": "/virtual-lab-manager/static/js/main.bb364472.js",
+    "main.js": "/virtual-lab-manager/static/js/main.cc49b1a9.js",
     "static/js/453.48a4487a.chunk.js": "/virtual-lab-manager/static/js/453.48a4487a.chunk.js",
     "index.html": "/virtual-lab-manager/index.html",
     "main.25a7ede1.css.map": "/virtual-lab-manager/static/css/main.25a7ede1.css.map",
-    "main.bb364472.js.map": "/virtual-lab-manager/static/js/main.bb364472.js.map",
+    "main.cc49b1a9.js.map": "/virtual-lab-manager/static/js/main.cc49b1a9.js.map",
     "453.48a4487a.chunk.js.map": "/virtual-lab-manager/static/js/453.48a4487a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25a7ede1.css",
-    "static/js/main.bb364472.js"
+    "static/js/main.cc49b1a9.js"
   ]
 }
